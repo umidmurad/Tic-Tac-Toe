@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umid</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I have worked on **Snake Game**
+- 🔭 I have completed a **TicTacToe Game**
 
 - 📫 How to reach me **umid.murad@hotmail.com**
 
